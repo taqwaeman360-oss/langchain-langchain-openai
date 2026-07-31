@@ -1,8 +1,4 @@
-# ✉️ AI Email Generator with LangChain & LangSmith
 
-An intelligent email generation web application built with **Streamlit**, powered by **LangChain (LCEL)**, and fully monitored with **LangSmith** for real-time tracing, prompt evaluation, and observability.
-
----
 
 ## 🌟 Features
 
