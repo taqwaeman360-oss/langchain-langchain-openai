@@ -1,4 +1,4 @@
-AI Email Generator with LangSmith Observability
+## AI Email Generator with LangSmith Observability
 
 An intelligent, modular email generation application built with **LangChain**, **Streamlit**, and fully instrumented with **LangSmith** for real-time execution tracing, debugging, and performance evaluation.
 
